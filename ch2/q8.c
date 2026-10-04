@@ -1,4 +1,5 @@
-/*Question 8
+/*
+Question 8
  a. if it's sunday & it's snowing -> true
  b. if it's monday or it's raining -> true
  c. if a number is greater than 9 & less than 100 -> true (2 digit number)

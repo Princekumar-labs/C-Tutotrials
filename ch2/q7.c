@@ -1,4 +1,5 @@
-/*Question 7
+/*
+Question 7
  Are the following valid or not?.
  a. int a = 8^8
  b. intx; int y = x;
